@@ -26,7 +26,7 @@ Please take a look at [Semantic Kernel](https://aka.ms/semantic-kernel) for more
 To install this memory store, you need to add the required nuget package to your project:
 
 ```dotnetcli
-dotnet add package SemanticKernel.Connectors.Memory.MongoDB --version 0.0.1-preview
+dotnet add package SemanticKernel.Connectors.Memory.MongoDB --version 1.0.0-beta1
 ```
 
 ## Create the collection and the Search index
