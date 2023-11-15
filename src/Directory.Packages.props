@@ -27,7 +27,7 @@
     <!-- Skills -->
     <PackageVersion Include="MongoDB.Driver" Version="2.22.0" />
     <!-- Symbols -->
-    <PackageVersion Include="Microsoft.SourceLink.GitHub" Version="1.1.1" />
+    <PackageVersion Include="Microsoft.SourceLink.GitHub" Version="8.0.0" />
     <!-- Analyzers -->
     <!-- TODO: Not working with .NET Standard 2.0
     <PackageVersion Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform" Version="4.1.0" />
