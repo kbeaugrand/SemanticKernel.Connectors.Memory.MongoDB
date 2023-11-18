@@ -1,5 +1,9 @@
 # Semantic Kernel - MongoDB Connector
 
+> **This package has been deprecated as it is legacy and is no longer maintained.**
+> This package is now no longer needed as the connector is now part of the Semantic Kernel Core repository.
+> Suggested Alternatives: **Microsoft.SemanticKernel.Connectors.Memory.MongoDB**
+
 [![Build & Test](https://github.com/kbeaugrand/SemanticKernel.Connectors.Memory.MongoDB/actions/workflows/build_test.yml/badge.svg)](https://github.com/kbeaugrand/SemanticKernel.Connectors.Memory.MongoDB/actions/workflows/build_test.yml)
 [![Create Release](https://github.com/kbeaugrand/SemanticKernel.Connectors.Memory.MongoDB/actions/workflows/publish.yml/badge.svg)](https://github.com/kbeaugrand/SemanticKernel.Connectors.Memory.MongoDB/actions/workflows/publish.yml)
 [![Version](https://img.shields.io/github/v/release/kbeaugrand/SemanticKernel.Connectors.Memory.MongoDB)](https://img.shields.io/github/v/release/kbeaugrand/SemanticKernel.Connectors.Memory.MongoDB)
@@ -8,7 +12,6 @@
 This is a connector for the [Semantic Kernel](https://aka.ms/semantic-kernel).
 
 It provides a connection to a MongoDB Atlas database for the Semantic Kernel for the memories.
-
 > Note: It leverage on ``MongoDB Atlas Vector Search`` to provide vector search, this cannot work while running private instance of OpenSource MongoDB clusters.
 
 ## About Semantic Kernel
